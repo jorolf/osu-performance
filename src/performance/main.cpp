@@ -23,7 +23,7 @@ int main(s32 argc, char* argv[])
 #endif
 
 		args::ArgumentParser parser{
-			"Computes performance points (pp) for the rhythm game osu!",
+			"Computes performance points (pp) for the rhythm game osu! blop blep blap",
 			"",
 		};
 
